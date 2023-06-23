@@ -1,0 +1,60 @@
+19-Jun-2023 (17:15:38)
+Data Center (Corp Net 10.1.1.1) DOWN
+Data Center (Corp 7280 10.1.1.146) DOWN
+Dmark (Corp 7020 10.1.1.50) DOWN
+Data Center (Lambda 10.1.1.85) DOWN
+Data Center (DGX 10.1.1.48) DOWN
+Data Center (Big Mac 10.1.1.94) DOWN
+Data Center (Xavier1 10.1.1.102) DOWN
+Data Center (Xavier2 10.1.1.80) DOWN
+Data Center (Xavier3 10.1.1.72) DOWN
+Data Center (Xavier4 10.1.1.99) DOWN
+Data Center (Orin1 10.1.1.111) DOWN
+Data Center (Orin2 10.1.1.83) DOWN
+Lab B (Emergent7280 10.1.1.69) DOWN
+Lab B (EmergentDev 10.1.1.67) DOWN
+Lab B (NDI_Dev 10.1.1.56) DOWN
+Lab B (FrankJump 10.1.1.123) DOWN
+Lab B (Jump1-Mirror 10.1.1.86) DOWN
+Lab B (PugetVid 10.1.1.84) DOWN
+Lab B (OmenLeft 10.1.1.104) DOWN
+19-Jun-2023 (17:17:16)
+Data Center (Corp Net 10.1.1.1) DOWN
+Data Center (Corp 7280 10.1.1.146) DOWN
+Dmark (Corp 7020 10.1.1.50) DOWN
+Data Center (Lambda 10.1.1.85) DOWN
+Data Center (DGX 10.1.1.48) DOWN
+Data Center (Big Mac 10.1.1.94) DOWN
+Data Center (Xavier1 10.1.1.102) DOWN
+Data Center (Xavier2 10.1.1.80) DOWN
+Data Center (Xavier3 10.1.1.72) DOWN
+Data Center (Xavier4 10.1.1.99) DOWN
+Data Center (Orin1 10.1.1.111) DOWN
+Data Center (Orin2 10.1.1.83) DOWN
+Lab B (Emergent7280 10.1.1.69) DOWN
+Lab B (EmergentDev 10.1.1.67) DOWN
+Lab B (NDI_Dev 10.1.1.56) DOWN
+Lab B (FrankJump 10.1.1.123) DOWN
+Lab B (Jump1-Mirror 10.1.1.86) DOWN
+Lab B (PugetVid 10.1.1.84) DOWN
+Lab B (OmenLeft 10.1.1.104) DOWN
+19-Jun-2023 (17:18:53)
+Data Center (Corp Net 10.1.1.1) DOWN
+Data Center (Corp 7280 10.1.1.146) DOWN
+Dmark (Corp 7020 10.1.1.50) DOWN
+Data Center (Lambda 10.1.1.85) DOWN
+Data Center (DGX 10.1.1.48) DOWN
+Data Center (Big Mac 10.1.1.94) DOWN
+Data Center (Xavier1 10.1.1.102) DOWN
+Data Center (Xavier2 10.1.1.80) DOWN
+Data Center (Xavier3 10.1.1.72) DOWN
+Data Center (Xavier4 10.1.1.99) DOWN
+Data Center (Orin1 10.1.1.111) DOWN
+Data Center (Orin2 10.1.1.83) DOWN
+Lab B (Emergent7280 10.1.1.69) DOWN
+Lab B (EmergentDev 10.1.1.67) DOWN
+Lab B (NDI_Dev 10.1.1.56) DOWN
+Lab B (FrankJump 10.1.1.123) DOWN
+Lab B (Jump1-Mirror 10.1.1.86) DOWN
+Lab B (PugetVid 10.1.1.84) DOWN
+Lab B (OmenLeft 10.1.1.104) DOWN
